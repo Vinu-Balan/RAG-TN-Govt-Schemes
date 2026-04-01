@@ -2,6 +2,8 @@
 
 An AI-powered chatbot system for Indian government schemes information using Retrieval-Augmented Generation (RAG) technology. This project combines web crawling, document processing, vector embeddings, and large language models to provide accurate, contextual answers about government programs and benefits.
 
+https://github.com/user-attachments/assets/d701b150-abbc-40ce-bd65-b320b5c3210f
+
 ## 🚀 Features
 
 - **Intelligent Q&A**: Ask questions about Indian government schemes and get accurate, contextual answers
