@@ -1,0 +1,20 @@
+# Core web framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+
+# LangChain ecosystem
+langchain-ollama>=0.1.0
+langchain-chroma>=0.1.0
+langchain-text-splitters>=0.0.1
+
+# Web scraping
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# Data processing
+python-multipart>=0.0.6
+
+# Optional: For development and testing
+# pytest>=7.4.0
+# black>=23.0.0
+# isort>=5.12.0
